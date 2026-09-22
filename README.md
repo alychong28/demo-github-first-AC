@@ -1,4 +1,4 @@
-# demo-github-A-C
+# demo-github-first-AC
 STAT 545 Demo
 
 Alyssa Chong
